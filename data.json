@@ -1,23 +1,16 @@
 [
     {
         "productName": "IPhone XS",
-        "quantity": "1",
-        "price": "30000",
-        "datetime": "2024-10-17 12:11:39",
-        "totalValue": 30000
+        "quantity": "2",
+        "price": "100",
+        "datetime": "2024-10-17 13:05:33",
+        "totalValue": 200
     },
     {
         "productName": "IPhone XS",
-        "quantity": "1",
-        "price": "25000",
-        "datetime": "2024-10-17 12:12:36",
-        "totalValue": 25000
-    },
-    {
-        "productName": "IPhone XS",
-        "quantity": "3",
-        "price": "30000",
-        "datetime": "2024-10-17 12:12:56",
-        "totalValue": 90000
+        "quantity": "5",
+        "price": "1000",
+        "datetime": "2024-10-17 13:05:52",
+        "totalValue": 5000
     }
 ]
